@@ -1,3 +1,8 @@
 This is just a sample note.
 This is a sencond line.
+<<<<<<< HEAD
 This is 3rd line.
+=======
+These are Erin's changes.
+Here's another change
+>>>>>>> origin/master
